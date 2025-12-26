@@ -1,0 +1,7 @@
+.idea/
+.gradle/
+.vscode/
+.DS_Store
+
+build/
+gradle/*/*.jar
