@@ -1,6 +1,5 @@
-package com.singularity.ararys;
+package com.singularity.arrays;
 
-import com.singularity.arrays.RemoveSomeDuplicates;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 
